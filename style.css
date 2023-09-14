@@ -1,3 +1,11 @@
+#dark{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(circle at 50% 50% transparent, rgba(197, 12, 12, 0.9) 150px, rgb(153, 28, 28));
+}
 * {
   margin: 0;
   padding: 0%;
